@@ -5,3 +5,5 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 -love the community support.
 -more power to you.
+-love the community.
+
