@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new file   added.
 
+=======
+new file added.
+>>>>>>> parent of 43d374f ( deleted some code.)
